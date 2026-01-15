@@ -1,0 +1,8 @@
+{
+  "name": "Sentiment Compass",
+  "description": "Mzansi Multilingual Master - Specialized South African sentiment intelligence dashboard powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
